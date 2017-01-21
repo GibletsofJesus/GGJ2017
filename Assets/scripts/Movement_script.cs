@@ -19,7 +19,7 @@ public class Movement_script : MonoBehaviour
     public LightClass[] AlltheLights;
     
     public float seconds = 2f;
-    
+    public bool bitvhes;
     public bool Active=true;
     
     void Start()
